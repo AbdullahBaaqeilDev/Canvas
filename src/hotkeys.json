@@ -1,0 +1,44 @@
+{
+    "camera": {
+        "move": {
+            "up": ["up"],
+            "right": ["right"],
+            "down": ["down"],
+            "left": ["left"]
+        },
+        "recenter": ["r"]
+    },
+    "toolbox": {
+        "select": {
+            "0": ["0"],
+            "1": ["1"],
+            "2": ["2"],
+            "3": ["3"],
+            "4": ["4"],
+            "5": ["5"],
+            "6": ["6"],
+            "7": ["7"],
+            "8": ["8"],
+            "9": ["9"]
+        }
+    },
+    "statusbar": {
+        "toggle": {
+            "mouse_pos": ["ctrl", "shift", "m"],
+            "grid_size": ["ctrl", "shift", "g"],
+            "cell_size": ["ctrl", "shift", "o"],
+            "pixel_count": ["ctrl", "shift", "p"],
+            "camera_zoom": ["ctrl", "shift", "z"],
+            "camera_offset": ["ctrl", "shift", "c"],
+            "markers_visibility": ["ctrl", "shift", "k"],
+            "ruler_visibility": ["ctrl", "shift", "r"]
+        }
+    },
+    "canves": {
+        "clear": ["ctrl", "shift", "delete"]
+    },
+    "output": {
+        "save_as_bmp": ["ctrl", "shift", "s"]
+    },
+    "conway_play": ["ctrl", "shift", "alt", "c"]
+}

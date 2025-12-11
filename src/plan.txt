@@ -1,0 +1,4 @@
+- make anti aliasing for the circle tool
+- make a bezier curve tool
+- make a ui to show the drawing tools
+- make an effects class to change the colors somehow
